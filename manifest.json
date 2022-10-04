@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+  
+    "name": "Border-Color-Change",
+    "description": "Border Color changes with rgb colors",
+    "version": "1.0",
+  
+    "browser_action": {
+      "default_popup": "index1.html"
+    }
+  }
+  
